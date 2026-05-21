@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Model/cache files
+*.bin
+*.gguf
+
+# OS
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Vector memory (optional, can be large)
+memory/vector_store_backup/
